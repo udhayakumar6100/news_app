@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trending News</string>
+    <string name="toolbar">toolbar</string>
+    <string name="include">include</string>
+</resources>
